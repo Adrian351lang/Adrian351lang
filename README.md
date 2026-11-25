@@ -27,9 +27,19 @@
 
 # 🇧🇷 Ferramentas / 🇺🇸 Tools
 
-- Linux
-- Docker
-- MariaDB
+<div class="ferramentas">
+  <a href="https://en.wikipedia.org/wiki/Linux">
+    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1280px-Tux.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20260427133119" height="48" alt="linux" />
+  </a>
+    <img width="16" />
+  <a href="https://www.docker.com/">
+    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Docker_Logo.svg/1280px-Docker_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250930100937"  height="48" alt="shellscript" />
+  </a>
+    <img width="16" />
+  <a href="https://mariadb.org/">
+    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/MariaDB_colour_logo.svg/960px-MariaDB_colour_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20210330152214"  height="48" alt="python" />
+  </a>
+</div>
 
 # 🇧🇷 Linguagens Naturais / 🇺🇸 Natural Languages
 
