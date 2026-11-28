@@ -1,6 +1,6 @@
 # Greetings
 
-![Snake animation](https://github.com/{your-username}/{repository-name}/blob/main/dist/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Adrian351lang/Adrian351lang/blob/main/dist/github-contribution-grid-snake-dark.svg)
 
 I am a programmer who likes code that's well-organized, modular and made with love.
 
