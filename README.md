@@ -45,10 +45,11 @@ I am a programmer who likes code that's well-organized, modular and made with lo
   </a>
 </div>
 
-# 🇧🇷 Linguagens Naturais / 🇺🇸 Natural Languages
+# Natural Languages
 
 | Flag | Language  | ISO 639 | CEFR Level |
 |------|-----------|---------|------------|
 | 🇧🇷   | Português | pt      | C2         |
 | 🇺🇸   | English   | en      | B2         |
 | 🇪🇸   | Español   | es      | B1         |
+| 🇷🇺   | Pусский   | ru      | A1         |
