@@ -1,10 +1,14 @@
-# 🇧🇷 Quem sou eu? / 🇺🇸 Who am I?
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adrian351lang/Adrian351lang/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adrian351lang/Adrian351lang/output/snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Adrian351lang/Adrian351lang/output/snake.svg" width="100%" />
+</picture>
 
-🇧🇷 Sou um programador que gosta de código bem organizado, modular e feito com amor.
+# Who am I?
 
-🇺🇸 I am a programmer who likes code that's well-organized, modular and made with love.
+I am a programmer who likes code that's well-organized, modular and made with love.
 
-# 🇧🇷 Linguagens de Programação / 🇺🇸 Programming Languages
+# Programming Languages
 
 <div class="linguagens">
   <a href="https://rust-lang.org/">
@@ -25,7 +29,7 @@
     <img width="16" />     
 </div>
 
-# 🇧🇷 Ferramentas / 🇺🇸 Tools
+# Tools
 
 <div class="ferramentas">
   <a href="https://en.wikipedia.org/wiki/Linux">
